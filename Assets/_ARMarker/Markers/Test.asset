@@ -21,9 +21,9 @@ MonoBehaviour:
       m_GuidLow: 5139323819129090807
       m_GuidHigh: 4812949215344515756
     m_SerializedTextureGuid:
-      m_GuidLow: 5045209436680788389
-      m_GuidHigh: 11223550736321392218
+      m_GuidLow: 5369605199155678368
+      m_GuidHigh: 14382836469109024042
     m_Size: {x: 1, y: 1}
     m_SpecifySize: 1
-    m_Name: MarkerIcons02
+    m_Name: MarkerLogos
     m_Texture: {fileID: 0}
